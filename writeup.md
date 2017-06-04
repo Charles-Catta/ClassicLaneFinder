@@ -86,19 +86,13 @@ The method *show_plots()* returns a matplotlib figure showing what happens after
 #### Videos
 
 <div style="text-align:center">
-    <video width="960" height="540" controls>
-        <source src="test_videos_output/solidWhiteRight.mp4">
-    </video>
+  <a href="test_videos_output/solidWhiteRight.mp4"> solidWhiteRight.mp4 </a>
 </div>
 
 <div style="text-align:center">
-    <video width="960" height="540" controls>
-        <source src="test_videos_output/solidYellowLeft.mp4">
-    </video>
+  <a href="test_videos_output/solidYellowLeft.mp4"> solidYellowLeft.mp4 </a>
 </div>
 
 <div style="text-align:center">
-    <video width="960" height="540" controls>
-        <source src="test_videos_output/challenge.mp4">
-    </video>
+  <a href="test_videos_output/challenge.mp4"> challenge.mp4 </a>
 </div>
