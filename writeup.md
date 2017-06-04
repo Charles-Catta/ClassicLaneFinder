@@ -34,7 +34,9 @@ My pipeline involved 4 main steps:
 > Another way of splitting would be to look at the linear slope of each line but I found that method to be unreliable.
 
 the result gives something like this:
-![lane markings][test_images_output/solidWhiteCurve_marked.jpg]
+<div style="text-align:center">
+  <img src="plot.png" />
+</div>
 
 #### Summary
 In summary my pipeline looks like this:
