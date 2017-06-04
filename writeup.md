@@ -41,7 +41,7 @@ In summary my pipeline looks like this:
     
    grayscale **--------|**
                       **------->** edge detection + masking **--->**  Hough Transform **--->** split, average and show two lines
-   color selection **--|**
+   color selection  **--|**
 
 The method *show_plots()* returns a matplotlib figure showing what happens after each key process which is very useful for tuning different parameters and debugging:
 
