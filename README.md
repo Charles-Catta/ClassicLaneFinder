@@ -12,5 +12,15 @@ Links
   <a href="writeup.md">Writeup</a>
 </div>
 <div>
-  <a href="P1.ipynb"> Code <em></a> (in an iPython notebook)</em>
+  <a href="P1.ipynb"> Code <em></a>(in an iPython notebook)</em>
 </div>
+
+
+Sample outputs
+---
+<div style="text-align:center"><img src="test_images_output/solidWhiteCurve_marked.jpg" /></div>
+<div style="text-align:center"><img src="test_images_output/solidWhiteRight_marked.jpg" /></div>
+<div style="text-align:center"><img src="test_images_output/solidYellowCurve2_marked.jpg" /></div>
+<div style="text-align:center"><img src="test_images_output/solidYellowCurve_marked.jpg" /></div>
+<div style="text-align:center"><img src="test_images_output/solidYellowLeft_marked.jpg" /></div>
+<div style="text-align:center"><img src="test_images_output/whiteCarLaneSwitch_marked.jpg" /></div>
